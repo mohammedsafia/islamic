@@ -1,16 +1,38 @@
 # islamic
 
-A new Flutter project.
+Aى Islamic mobile application built with Flutter that provides users with useful Islamic features in a simple and responsive interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+-  Quran
+-  Hadith
+-  Sebha (Tasbeeh Counter)
+-  Quran Radio
+-  Search functionality
+-  Onboarding Screens for first-time users
+-  Responsive UI using Flutter ScreenUtil
 
-A few resources to get you started if this is your first Flutter project:
+## App Flow
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Native Splash Screen
+2. Onboarding Screens
+3. Main Screen
+4. Search Bar
+5. Feature Cards
+   - Quran
+   - Hadith
+   - Sebha
+   - Radio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages Used
+
+- flutter_native_splash 
+- flutter_launcher_icons 
+- introduction_screen 
+- carousel_slider 
+- flutter_screenutil 
+- audioplayers
+- dio 
+
+
+
