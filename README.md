@@ -1,6 +1,6 @@
 # islamic
 
-Aى Islamic mobile application built with Flutter that provides users with useful Islamic features in a simple and responsive interface.
+An Islamic mobile application built with Flutter that provides users with useful Islamic features in a simple and responsive interface.
 
 ## Features
 
